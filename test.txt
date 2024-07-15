@@ -1,0 +1,8 @@
+Birinci Satýr
+Ýkinci Satýr
+hello world
+merhaba python!
+mustafa kerem
+Ãœçüncü Satýr
+Dördüncü Satýr
+Beþinci Satýr
